@@ -1,10 +1,10 @@
 ﻿# Site settings
-title: GitTab Blog
-SEOTitle: GitTab | GitTab Blog博客| 码工的IT日常 |人生感言
+title: 域名 出售
+SEOTitle: AItolove域名出售
 header-img: img/home.jpg
 email: longtolink@163.com
 description: "努力是迈向成功的开始!"
-keyword: "hI, 人生感言,IT生活 HuangLong, 网址大全, 快捷操作, 好看的电影，免费看电影的网站"
+keyword: "域名出售，aitolove.com域名出售"
 url: "http://tearstea.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/tearstea/tearstea.github.io.git"  # you code repository
@@ -78,7 +78,7 @@ gitalk:
 
 # Google Analytics
 # ga_track_id: 'UA-90855596-1'            # Format: UA-xxxxxx-xx
-ga_domain: gittab.cn               # 默认的是 auto, 这里我是自定义了的域名，你如果没有自己的域名，需要改成auto
+ga_domain: gotolink.club               # 默认的是 auto, 这里我是自定义了的域名，你如果没有自己的域名，需要改成auto
 
 
 
@@ -108,8 +108,8 @@ friends: [
         title: "BinGo姐",
         href: "https://www.cometogo.club/"
     },
-    #{
-    #     title: "Apple Developer",
-    #     href: "https://developer.apple.com/"
-    # }
+    {
+        title: "GitTab",
+        href: "https://gittab.cn/"
+    }
 ]
